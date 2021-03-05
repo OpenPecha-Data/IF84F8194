@@ -1,16 +1,17 @@
-id: opecha:P007881
+id: P007881
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG16208
   title: ཆོས་འབྱུང་ཀུན་བཏུས་པདྨ་དཀར་པོའི་ཆུན་པོ་བློ་གསལ་འདྲེན་བྱེད་བདུད་རྩིའི་དཔལ་ཡོན།
-  volume:
+  author: ''
+  volumes:
     cbdbf189746c4f39a0722e0d0a2790b9:
       image_group_id: I1KG16237
       title: Volume 1 of chos 'byung kun btus pad+ma dkar po'i chun po blo gsal 'dren
         byed bdud rtsi'i dpal yon/
       volume_number: 1
       total_pages: 238
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཆོས་འབྱུང་ཀུན་བཏུས་པདྨ་དཀར་པོའི་ཆུན་པོ་བློ་གསལ་འདྲེན་བྱེད་བདུད་རྩིའི་དཔལ་ཡོན།
   author: ''
