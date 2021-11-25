@@ -1,5 +1,7 @@
 id: P007881
 initial_creation_type: ocr
+created_at: 22/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W1KG16208
   title: ཆོས་འབྱུང་ཀུན་བཏུས་པདྨ་དཀར་པོའི་ཆུན་པོ་བློ་གསལ་འདྲེན་བྱེད་བདུད་རྩིའི་དཔལ་ཡོན།
@@ -12,10 +14,3 @@ source_metadata:
       volume_number: 1
       total_pages: 238
       base_file: v001.txt
-ebook_metadata:
-  title: ཆོས་འབྱུང་ཀུན་བཏུས་པདྨ་དཀར་པོའི་ཆུན་པོ་བློ་གསལ་འདྲེན་བྱེད་བདུད་རྩིའི་དཔལ་ཡོན།
-  author: ''
-  sku: P007881
-  cover: cover.jpg
-  layers:
-  - pagination
